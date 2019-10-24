@@ -1,0 +1,10 @@
+.btn-group .btn {
+  cursor: initial;
+}
+
+.lead a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
